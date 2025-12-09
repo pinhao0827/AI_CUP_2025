@@ -1,0 +1,15 @@
+{
+    "channel_names": {
+        "0": "CT_w50_350",
+        "1": "CT_w200_600",
+        "2": "CT_w400_1800"
+    },
+    "labels": {
+        "background": 0,
+        "myocardium": 1,
+        "aorta": 2,
+        "calcification": 3
+    },
+    "numTraining": 50,
+    "file_ending": ".nii.gz"
+}

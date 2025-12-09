@@ -1,0 +1,43 @@
+[
+    {
+        "train": ["patient0046", "patient0027", "patient0010", "patient0030", "patient0017", "patient0032", "patient0022", "patient0013", "patient0004", "patient0040", "patient0039", "patient0011", "patient0025", "patient0036", "patient0001", "patient0044", "patient0019", "patient0034", "patient0049", "patient0042", "patient0031", "patient0029", "patient0021", "patient0023", "patient0043", "patient0047", "patient0037", "patient0033", "patient0045", "patient0014", "patient0050", "patient0048", "patient0003", "patient0028", "patient0038", "patient0006", "patient0035", "patient0007", "patient0009", "patient0015", "patient0016", "patient0018", "patient0002", "patient0008", "patient0041"],
+        "val": ["patient0026", "patient0024", "patient0020", "patient0012", "patient0005"]
+    },
+    {
+        
+        "train": ["patient0026", "patient0024", "patient0020", "patient0012", "patient0005", "patient0032", "patient0022", "patient0013", "patient0004", "patient0040", "patient0039", "patient0011", "patient0025", "patient0036", "patient0001", "patient0044", "patient0019", "patient0034", "patient0049", "patient0042", "patient0031", "patient0029", "patient0021", "patient0023", "patient0043", "patient0047", "patient0037", "patient0033", "patient0045", "patient0014", "patient0050", "patient0048", "patient0003", "patient0028", "patient0038", "patient0006", "patient0035", "patient0007", "patient0009", "patient0015", "patient0016", "patient0018", "patient0002", "patient0008", "patient0041"],
+        "val": ["patient0046", "patient0027", "patient0010", "patient0030", "patient0017"]
+    },
+    {
+        "train": ["patient0026", "patient0024", "patient0020", "patient0012", "patient0005", "patient0046", "patient0027", "patient0010", "patient0030", "patient0017", "patient0039", "patient0011", "patient0025", "patient0036", "patient0001", "patient0044", "patient0019", "patient0034", "patient0049", "patient0042", "patient0031", "patient0029", "patient0021", "patient0023", "patient0043", "patient0047", "patient0037", "patient0033", "patient0045", "patient0014", "patient0050", "patient0048", "patient0003", "patient0028", "patient0038", "patient0006", "patient0035", "patient0007", "patient0009", "patient0015", "patient0016", "patient0018", "patient0002", "patient0008", "patient0041"],
+        "val": ["patient0032", "patient0022", "patient0013", "patient0004", "patient0040"]
+    },
+    {
+        "train": ["patient0026", "patient0024", "patient0020", "patient0012", "patient0005", "patient0046", "patient0027", "patient0010", "patient0030", "patient0017", "patient0032", "patient0022", "patient0013", "patient0004", "patient0040", "patient0044", "patient0019", "patient0034", "patient0049", "patient0042", "patient0031", "patient0029", "patient0021", "patient0023", "patient0043", "patient0047", "patient0037", "patient0033", "patient0045", "patient0014", "patient0050", "patient0048", "patient0003", "patient0028", "patient0038", "patient0006", "patient0035", "patient0007", "patient0009", "patient0015", "patient0016", "patient0018", "patient0002", "patient0008", "patient0041"],
+        "val": ["patient0039", "patient0011", "patient0025", "patient0036", "patient0001"]
+    },
+    {
+        "train": ["patient0026", "patient0024", "patient0020", "patient0012", "patient0005", "patient0046", "patient0027", "patient0010", "patient0030", "patient0017", "patient0032", "patient0022", "patient0013", "patient0004", "patient0040", "patient0039", "patient0011", "patient0025", "patient0036", "patient0001", "patient0031", "patient0029", "patient0021", "patient0023", "patient0043", "patient0047", "patient0037", "patient0033", "patient0045", "patient0014", "patient0050", "patient0048", "patient0003", "patient0028", "patient0038", "patient0006", "patient0035", "patient0007", "patient0009", "patient0015", "patient0016", "patient0018", "patient0002", "patient0008", "patient0041"],
+        "val": ["patient0044", "patient0019", "patient0034", "patient0049", "patient0042"]
+    },
+    {
+        "train": ["patient0026", "patient0024", "patient0020", "patient0012", "patient0005", "patient0046", "patient0027", "patient0010", "patient0030", "patient0017", "patient0032", "patient0022", "patient0013", "patient0004", "patient0040", "patient0039", "patient0011", "patient0025", "patient0036", "patient0001", "patient0044", "patient0019", "patient0034", "patient0049", "patient0042", "patient0047", "patient0037", "patient0033", "patient0045", "patient0014", "patient0050", "patient0048", "patient0003", "patient0028", "patient0038", "patient0006", "patient0035", "patient0007", "patient0009", "patient0015", "patient0016", "patient0018", "patient0002", "patient0008", "patient0041"],
+        "val": ["patient0031", "patient0029", "patient0021", "patient0023", "patient0043"]
+    },
+    {
+        "train": ["patient0026", "patient0024", "patient0020", "patient0012", "patient0005", "patient0046", "patient0027", "patient0010", "patient0030", "patient0017", "patient0032", "patient0022", "patient0013", "patient0004", "patient0040", "patient0039", "patient0011", "patient0025", "patient0036", "patient0001", "patient0044", "patient0019", "patient0034", "patient0049", "patient0042", "patient0031", "patient0029", "patient0021", "patient0023", "patient0043", "patient0050", "patient0048", "patient0003", "patient0028", "patient0038", "patient0006", "patient0035", "patient0007", "patient0009", "patient0015", "patient0016", "patient0018", "patient0002", "patient0008", "patient0041"],
+        "val": ["patient0047", "patient0037", "patient0033", "patient0045", "patient0014"]
+    },
+    {
+        "train": ["patient0026", "patient0024", "patient0020", "patient0012", "patient0005", "patient0046", "patient0027", "patient0010", "patient0030", "patient0017", "patient0032", "patient0022", "patient0013", "patient0004", "patient0040", "patient0039", "patient0011", "patient0025", "patient0036", "patient0001", "patient0044", "patient0019", "patient0034", "patient0049", "patient0042", "patient0031", "patient0029", "patient0021", "patient0023", "patient0043", "patient0047", "patient0037", "patient0033", "patient0045", "patient0014", "patient0006", "patient0035", "patient0007", "patient0009", "patient0015", "patient0016", "patient0018", "patient0002", "patient0008", "patient0041"],
+        "val": ["patient0050", "patient0048", "patient0003", "patient0028", "patient0038"]
+    },
+    {
+        "train": ["patient0026", "patient0024", "patient0020", "patient0012", "patient0005", "patient0046", "patient0027", "patient0010", "patient0030", "patient0017", "patient0032", "patient0022", "patient0013", "patient0004", "patient0040", "patient0039", "patient0011", "patient0025", "patient0036", "patient0001", "patient0044", "patient0019", "patient0034", "patient0049", "patient0042", "patient0031", "patient0029", "patient0021", "patient0023", "patient0043", "patient0047", "patient0037", "patient0033", "patient0045", "patient0014", "patient0050", "patient0048", "patient0003", "patient0028", "patient0038", "patient0016", "patient0018", "patient0002", "patient0008", "patient0041"],
+        "val": ["patient0006", "patient0035", "patient0007", "patient0009", "patient0015"]
+    },
+    {
+        "train": ["patient0026", "patient0024", "patient0020", "patient0012", "patient0005", "patient0046", "patient0027", "patient0010", "patient0030", "patient0017", "patient0032", "patient0022", "patient0013", "patient0004", "patient0040", "patient0039", "patient0011", "patient0025", "patient0036", "patient0001", "patient0044", "patient0019", "patient0034", "patient0049", "patient0042", "patient0031", "patient0029", "patient0021", "patient0023", "patient0043", "patient0047", "patient0037", "patient0033", "patient0045", "patient0014", "patient0050", "patient0048", "patient0003", "patient0028", "patient0038", "patient0006", "patient0035", "patient0007", "patient0009", "patient0015"],
+        "val": ["patient0016", "patient0018", "patient0002", "patient0008", "patient0041"]
+    }
+]
